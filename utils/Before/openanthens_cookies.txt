@@ -1,0 +1,18 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.openathens.net	TRUE	/	FALSE	1793035089	_ga	GA1.1.1334787030.1755881136
+.openathens.net	TRUE	/	FALSE	1790441138	_ga_9NYDSKY226	GS2.1.s1755881135$o1$g0$t1755881138$j59$l0$h0
+.eu1.proxy.openathens.net	TRUE	/	FALSE	0	oamps	eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwIjpbIjg4MmM5NTdmLTEzNTQtNDM0Yy04ZTk1LTZlMTBlNTg5ZmY2NSJdLCJkIjoiY2FsdGVjaC5lZHUiLCJlIjoiaHR0cHM6Ly9pZHAuY2FsdGVjaC5lZHUvZW50aXR5Iiwib3JnIjoiODAyNjIzMzYiLCJpZCI6ImJlMWUwMDgxLTEyNjktNDM5ZS04Mjc2LTQ2NDg5MWM2MGVmMCIsImV4cCI6MTc1ODUwMzg4NiwiY3AiOmZhbHNlLCJjciI6ZmFsc2V9.gIXBHgVfkKrWhGEKVa5rc5pltn3bSQeqd6UsCdF1EcI
+aacrjournals-org.eu1.proxy.openathens.net	FALSE	/	TRUE	0	AACR_SessionId	j30wurutjtjrljrkp4jmbbxr
+aacrjournals-org.eu1.proxy.openathens.net	FALSE	/	TRUE	1793035088	American_Association_for_Cancer_ResearchMachineID	638940718867929419
+aacrjournals-org.eu1.proxy.openathens.net	FALSE	/	TRUE	1758476887	__cf_bm	5Oeh0WriRp0OBYRvW_GeEhP0I_Y4ZHC2rL7K5KWxQMc-1758475087-1.0.1.1-EtKJ.Xok5JbzoM7fuqrfoDW1bxb0z6sc3VdWiGA.NjxcPYtUTU3rXQZxms6oQebq7JuG.fZhlwrXpg44rIvOfaiVGPCcHxNh1xoekV2iVtM
+.openathens.net	TRUE	/	TRUE	1792171089	__gads	ID=2dc7414e5b134508:T=1758475089:RT=1758475089:S=ALNI_MYhhG0PDhkHaSSGnL5urkgEM8kKnQ
+.openathens.net	TRUE	/	TRUE	1792171089	__gpi	UID=0000127f043f7cb8:T=1758475089:RT=1758475089:S=ALNI_MZmY8qP2pNbNMxBcti0F4qGhTc59Q
+.openathens.net	TRUE	/	TRUE	1774027089	__eoi	ID=7f2737877ee910b7:T=1758475089:RT=1758475089:S=AA-AfjbhkvhAgqv8dP_WRYu1mpFm
+.aacrjournals-org.eu1.proxy.openathens.net	TRUE	/	TRUE	1758478689	feathr_session_id	68d03351fcc534ca6ba5476f
+.openathens.net	TRUE	/	FALSE	1793035089	_ga_C8E9HV22QS	GS2.1.s1758475089$o1$g0$t1758475089$j60$l0$h0
+.openathens.net	TRUE	/	TRUE	1790011089	_hjSessionUser_6491088	eyJpZCI6IjZjMmVkODUxLTIyYmMtNTEzNi04NjFkLTk2ZWE2YWIxMWQ3NSIsImNyZWF0ZWQiOjE3NTg0NzUwODkzNzksImV4aXN0aW5nIjpmYWxzZX0=
+.openathens.net	TRUE	/	TRUE	1758477658	_hjSession_6491088	eyJpZCI6ImMyY2I2MjdiLTQ5YWMtNGRhZS05MTliLWI4ZGNlN2E1MTUzZCIsImMiOjE3NTg0NzUwODkzNzksInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=
+aacrjournals-org.eu1.proxy.openathens.net	FALSE	/	TRUE	1790011089	cf_clearance	yLLZwzeSeNniCg0ig.G6K_HNeAwTDDfdxK_ziflk6Fw-1758475090-1.2.1.1-8TOw2hOyEW_iNfrc0qfiHor55yu.0fYm0NwhB29IsxJi_UBcuUtdCNG2YHi0ei1E0CtZt65cAhulbHXl5KOp2uZfpC7rjDohvESSlg6djSUogSRs23uvQU8arGbspT7yocP.ZP7YNssB25jEYyxcyY8E8xOJxsBVWG8piSA96hcm2EKEljXOCCGWx8q.6rYIW0Upxe0WnPlRh0hZAGh4WwhIRDSfCfLxRNs6ytMZ7O8
