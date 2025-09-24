@@ -84,7 +84,7 @@ Outputs:
 
 2) Process a specific paper by index (0-based):
 ```bash
-python fetch_paper_openai_extract.py --paper_index 0 --print_details 1 --model gpt-4.1
+python fetch_paper_openai_extract.py --paper_index 0 --print_details 1 --model gpt-5
 ```
 - Attempts multiple PDF fetch strategies and extracts full text with PyMuPDF.
 - Calls OpenAI to generate dataset metadata JSON.
